@@ -17,7 +17,7 @@
  * Plugin URI:        https://https://cloud1.me/
  * Description:       Woo Way Express Shipping
  * Version:           1.0.0
- * Author:            Gaurav Garg
+ * Author:            Atul Goyal
  * Author URI:        https://https://cloud1.me/
  * License:           GPL-2.0+
  * License URI:       http://www.gnu.org/licenses/gpl-2.0.txt
