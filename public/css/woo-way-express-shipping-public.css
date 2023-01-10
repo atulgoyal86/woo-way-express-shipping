@@ -1,0 +1,11 @@
+/**
+ * All of the CSS for your public-facing functionality should be
+ * included in this file.
+ */
+ /* .woowes_city_field_hide{
+    display: none;
+ } */
+
+ #billing_city_field.hidden, #billing_city_woowes_field.hidden,
+        #shipping_city_field.hidden, #shipping_city_woowes_field.hidden
+        {display:none !important;}
